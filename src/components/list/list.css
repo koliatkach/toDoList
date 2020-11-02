@@ -1,0 +1,37 @@
+
+.list {
+    width: 400px;
+    height: 500px;
+    background-color: #44c7fb;
+    border: black 3px solid;
+    text-align: center;
+    padding: 20px 0;
+    overflow: auto;
+    margin: 20px auto;
+}
+
+
+.list-input input {
+    padding: 8px 10px;
+    border: black 2px solid;
+    border-radius: 2px;
+    width: 280px;
+    margin: 0 10px 0 0;
+}
+
+.list-button {
+    height: 35px;
+    border-radius: 2px;
+    border: none;
+    background-color: #005ff9;
+    color: #fff;
+    padding: 0 10px;
+}
+
+.styleItem {
+    background-color: #a1e3fd;
+    margin: 10px 20px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 10px;
+} 
